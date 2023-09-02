@@ -437,7 +437,7 @@ video {
 }
 @media not all and (min-width: 321px) {
   .max-sm\:bg-\[url\(\'mobileSize\.png\'\)\] {
-    background-image: url(/dist/mobileSize-c1a22f80.png);
+    background-image: url(/dist/mobileSize.png);
   }
 }
 @media (min-width: 321px) {
@@ -509,7 +509,7 @@ video {
     background-color: rgb(217 217 217 / var(--tw-bg-opacity));
   }
   .lg\:bg-\[url\(\'qouteImage\.png\'\)\] {
-    background-image: url(/dist/qouteImage-5340de45.png);
+    background-image: url(/dist/qouteImage.png);
   }
   .lg\:bg-center {
     background-position: center;
